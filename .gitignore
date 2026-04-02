@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# Flask instance folder
+instance/
+
+# User uploads
+uploads/
+
+# Environment files
+.env
+*.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
